@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan revisado y alineado con los requerimientos confirmados: capa base de consolidación de base de datos relacional para UruguayConcursa, conector HTTP en backend con parser del portal y recolección en vivo, etiquetado de concursos no gestionados por UruguayConcursa, gestión de novedades y archivos adjuntos, análisis de bases y actas (criterios y postulantes clasificados por estado y puntaje) y módulo de exportación en SQL, JSON y CSV.",
+  "updatedAt":  "2026-10-28T03:35:38.427275166Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
